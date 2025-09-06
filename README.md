@@ -29,7 +29,7 @@ Created bar plots, count plots, and distribution plots.
 Example: Count plot of product sizes in the dataset (see below).
 
 
-![plot preview]()
+![plot preview](https://github.com/Yogita2409/Amazon-sales-analysis-using-jupyter-notebook/blob/master/preview.png)
 
 📊 Key Insights
 Most popular product sizes were M, L, and XL.
