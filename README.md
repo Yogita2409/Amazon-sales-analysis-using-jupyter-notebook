@@ -1,6 +1,9 @@
 📊 Amazon Sales Report Analysis using Python
 📌 Overview
+
+
 This project analyzes Amazon sales report data using Python in a Jupyter Notebook.
+
 The goal of this project was to clean the dataset, explore key insights, and visualize the results using different data visualization libraries.
 
 🛠️ Technologies Used
