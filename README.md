@@ -64,3 +64,5 @@ Data distribution revealed trends helpful for inventory planning.
 Add interactive dashboards using Plotly or Dash.
 Automate data cleaning pipeline.
 Extend analysis to include time-series trends.
+
+Excess the project live: https://app.powerbi.com/groups/me/reports/31f8fc5c-92c1-4a7f-97a7-a86fb4c12f17/45d4b79c686c6e4ddb3a?experience=power-bi
